@@ -16,8 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
+      title: Hanalei Fill
       header: Schibsted Grotesk
-      body: Source Sans Pro
+      body: Host Grotesk
       code: IBM Plex Mono
     colors:
       lightMode:
