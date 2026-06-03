@@ -17,7 +17,7 @@ configuration:
     cdnCaching: true
     typography:
       title: Hanalei Fill
-      header: Schibsted Grotesk
+      header: Bricolage Grotesk
       body: Host Grotesk
       code: IBM Plex Mono
     colors:
