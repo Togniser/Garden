@@ -2,7 +2,7 @@
 publish: true
 title: Fields of research
 created: 2026-05-25T12:20:37.375+02:00
-modified: 2026-06-04T17:12:05.439+02:00
+modified: 2026-06-04T17:21:49.579+02:00
 ---
 
 <head>
@@ -26,11 +26,11 @@ Ogni tanto uso i quaderni
   * I am 
   * SER
 	  * Togni Ser
-		* SerT
-			* Stefano Togni
+		  * SerT
+			  * Stefano Togni
   * , a cartoonist.
 	  * , a cartoonist and an architect.
-	  * , cartoonist, architect and game designer.`;
+		  * , cartoonist, architect and game designer.`;
     const node = createTelescopicTextFromBulletedList(content);
     const container = document.getElementById("text-container");
     container.appendChild(node);
