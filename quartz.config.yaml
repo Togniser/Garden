@@ -16,13 +16,12 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: Hanalei Fill
       header: Bricolage Grotesque
       body: Host Grotesk
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#cfddcf"
+        light: "#d4d4d4"
         lightgray: "#e5e5e5"
         gray: "#b8b8b8"
         darkgray: "#4e4e4e"
@@ -142,6 +141,7 @@ plugins:
     enabled: true
   - source: github:quartz-community/canvas-page
     enabled: true
+    options: {}
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/folder-page
@@ -191,6 +191,7 @@ plugins:
     layout:
       position: left
       priority: 10
+    options: {}
   - source: github:quartz-community/darkmode
     enabled: true
     layout:
