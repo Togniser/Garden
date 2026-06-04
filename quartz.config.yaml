@@ -263,6 +263,10 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:jackyzhao/telescopic-text
+    enabled: true
+    order: 50
+    options: {}
 layout:
   groups:
     toolbar:
