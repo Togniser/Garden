@@ -291,4 +291,5 @@ layout:
       positions:
         right: []
     canvas: {}
-    bases: {}
+    bases:
+      template: full-width
