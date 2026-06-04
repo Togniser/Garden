@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Togni Ser's Garden
-  pageTitleSuffix: Fields of research | Garden of ideas
+  pageTitleSuffix: Fields of research
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -16,6 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
+      title: Hanalei Fill
       header: Bricolage Grotesque
       body: Host Grotesk
       code: IBM Plex Mono
