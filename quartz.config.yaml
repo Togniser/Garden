@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: Hanamei Fill
+      title: Hanalei Fill
       header: Bricolage Grotesque
       body: Host Grotesk
       code: IBM Plex Mono
