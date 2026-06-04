@@ -1,8 +1,6 @@
 ---
 publish: true
 title: Fields of research
-created: 2026-05-25T12:20:37.375+02:00
-modified: 2026-06-04T17:21:49.579+02:00
 ---
 
 <head>
@@ -41,3 +39,11 @@ Ogni tanto uso i quaderni
 > [!info]- NULLA REDEMPTIO
 > Questo è il testo nascosto all'interno del callout.
 > Può contenere anche elenchi o più paragrafi.
+
+```cardlink
+url: https://beampress.it
+title: "Dalla valle dell'orto"
+host: beampress.com
+favicon: https://it.wikipedia.org/static/favicon/wikipedia.ico
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYCFJa4fO06Ge9dqCu0O04BHLUnqdSm9zmkg&s
+```
