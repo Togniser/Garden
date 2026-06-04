@@ -40,10 +40,6 @@ Ogni tanto uso i quaderni
 > Questo è il testo nascosto all'interno del callout.
 > Può contenere anche elenchi o più paragrafi.
 
-```cardlink
-url: https://beampress.it
-title: "Dalla valle dell'orto"
-host: beampress.com
-favicon: https://it.wikipedia.org/static/favicon/wikipedia.ico
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYCFJa4fO06Ge9dqCu0O04BHLUnqdSm9zmkg&s
-```
+<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://beampress.it" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">Dalla valle dell'orto</div><div class="auto-card-link-host"><span>beampress.com</span></div></div><img draggable="false" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYCFJa4fO06Ge9dqCu0O04BHLUnqdSm9zmkg&amp;s" class="auto-card-link-thumbnail" /></a></div>
+
+Ego
