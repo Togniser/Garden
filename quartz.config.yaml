@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Togni Ser's Garden
+  pageTitle: TogniSer Garden
   pageTitleSuffix: Fields of research
   enableSPA: true
   enablePopovers: true
