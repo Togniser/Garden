@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Garden
+  pageTitle: Togni Ser's Garden
   pageTitleSuffix: Fields of research | Garden of ideas
   enableSPA: true
   enablePopovers: true
@@ -16,13 +16,12 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: Hanalei Fill
-      header: Bricolage Grotesque
-      body: Host Grotesk
+      header: Schibsted Grotesk
+      body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
+        light: "#cfddcf"
         lightgray: "#e5e5e5"
         gray: "#b8b8b8"
         darkgray: "#4e4e4e"
@@ -32,7 +31,7 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#000000"
+        light: "#354136"
         lightgray: "#595959"
         gray: "#878787"
         darkgray: "#e3e3e3"
