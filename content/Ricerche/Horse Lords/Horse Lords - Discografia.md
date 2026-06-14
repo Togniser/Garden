@@ -48,7 +48,7 @@ publish: true
   - Suspension
   - Impulse Array
 
-- _Demand to Be Taken to Heaven Alive!_ (RVNG Intl., 2026)[[7]]\(https://en.wikipedia.org/wiki/Horse\_Lords#cite\_note-7)
+- _Demand to Be Taken to Heaven Alive!_ (RVNG Intl., 2026)
   - Eureka 378-B
   - Brain Of The Firm
   - Rotation
