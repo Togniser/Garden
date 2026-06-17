@@ -48,6 +48,36 @@ flowchart TB
     n1@{ img: "https://togniser.github.io/Garden/pasted-image-20260524171922.png", h: 381, w: 270, pos: "b", constraint: "on"}
 ```
 
+```mermaid
+---
+
+config:
+
+  theme: redux
+
+  layout: dagre
+
+---
+
+flowchart TB
+
+    subId[["Eccomi"]]
+
+    n1["This is sample label"]
+
+    n2["This is sample label"]
+
+    n3["This is sample label"]
+
+  
+
+    n1@{ img: "https://togniser.github.io/Garden/pasted-image-20260524171922.png", h: 381, w: 270, pos: "b", constraint: "on"}
+
+    n2@{ img: "https://static.mermaidchart.dev/whiteboard/default-image-shape.svg", h: 200, w: 200, pos: "b"}
+
+    n3@{ img: "https://static.mermaidchart.dev/whiteboard/default-image-shape.svg", h: 200, w: 200, pos: "b"}
+```
+
 flowchart TD
 
    
