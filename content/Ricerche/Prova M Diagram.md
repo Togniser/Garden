@@ -27,16 +27,25 @@ flowchart TB
 flowchart TD
 
 ```mermaid
+---
+
+config:
+
+  theme: redux
+
+  layout: dagre
+
+---
+
 flowchart TB
 
     subId[["Eccomi"]] --> roundedId("Non di nuovo!")
 
-    n1[[Terribilis est locus iste]] --> roundedId
+    n1["Terribilis est"] --> roundedId
 
   
 
-    n1@{ img: "https://togniser.github.io/Garden/pasted-image-20260524171922.png", h: 200, w: 200, pos: "b"}
-    
+    n1@{ img: "https://togniser.github.io/Garden/pasted-image-20260524171922.png", h: 381, w: 270, pos: "b", constraint: "on"}
 ```
 
 flowchart TD
